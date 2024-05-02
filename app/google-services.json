@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "561356492911",
+    "firebase_url": "https://projeto-integrador-f7f44-default-rtdb.firebaseio.com",
+    "project_id": "projeto-integrador-f7f44",
+    "storage_bucket": "projeto-integrador-f7f44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561356492911:android:30bac867e421f9df443d9a",
+        "android_client_info": {
+          "package_name": "com.example.pjiii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtDFETgDD3aPgiS4msXm3nfAJbj2kwiS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
